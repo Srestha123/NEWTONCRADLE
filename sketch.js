@@ -53,6 +53,7 @@ function draw() {
   //block3.display();
   //block4.display();
   //block5.display();
+	text("press the up arrow key to elevate the ball and any other key to make it fall.",200,50);
   motion();
   drawSprites();
  
